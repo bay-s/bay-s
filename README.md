@@ -7,6 +7,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/React-40AEF0?logo=React&logoColor=white&style=ShieldStyle" />
- <img src="https://img.shields.io/badge/Javascript-FECC00?logo=Javascript&logoColor=black&style=ShieldStyle" />
-
+ <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=white&style=ShieldStyle" />
+   <img src="https://img.shields.io/badge/CSS-F7DF1E?logo=css3&logoColor=white&style=ShieldStyle" />
+</p>
 
