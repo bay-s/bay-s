@@ -5,6 +5,6 @@
 
 ## &#x1f4c8; Tech Stack
 
-<img src="https://img.shields.io/badge/React-1bb3fade?logo=React&logoColor=000000&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/React-fffff?logo=React&logoColor=ColorName&style=ShieldStyle" />
 
 
