@@ -5,6 +5,14 @@
 
 ## &#x1f4c8; Tech Stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<!--  for devicon plain version -->
+<i class="devicon-devicon-plain"></i>
 
+<!--  for devicon plain version with wordmark -->
+<i class="devicon-devicon-plain-wordmark"></i>
 
+<!--  for devicon plain version colored with devicon main color -->
+<i class="devicon-devicon-plain colored"></i>
+
+<!--  for devicon plain version with wordmark colored with devicon main color -->
+<i class="devicon-devicon-plain-wordmark colored"></i>
