@@ -1,8 +1,8 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bay-s&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bay-s)](https://github.com/username=bay-s/github-readme-stats)
 ## &#x1f4c8; Tech Stack
 
 <p>
