@@ -1,8 +1,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 
+[![bay-s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bay-s)](https://github.com/bay-s/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bay-s)](https://github.com/username=bay-s/github-readme-stats)
+
 ## &#x1f4c8; Tech Stack
 
 <p>
