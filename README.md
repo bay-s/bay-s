@@ -3,7 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bay-s&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bay-s)](https://github.com/bay-s/github-readme-stats)
 
 ## &#x1f4c8; Tech Stack
 
