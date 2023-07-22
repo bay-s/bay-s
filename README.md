@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=ShieldStyle" />
  <img src="https://img.shields.io/badge/Jquery-0769AD?logo=Javascript&logoColor=white&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Supabase-000000?logo=supabase&logoColor=08e0d2&style=ShieldStyle" />
-   <img src="https://img.shields.io/badge/Nextjs-000000?logo=Next-js&logoColor=08e0d2&style=ShieldStyle" />
+   <img src="https://img.shields.io/badge/Nextjs-000000?logo=next-js&logoColor=08e0d2&style=ShieldStyle" />
    <img src="https://img.shields.io/badge/Wordpress-0769AD?logo=wordpress&logoColor=white&style=ShieldStyle" />
 </p>
 
